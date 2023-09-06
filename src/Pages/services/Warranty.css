@@ -1,0 +1,52 @@
+/* Styling for the Warranty component */
+div[id="warranty"] {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+  }
+  
+  div[id="warranty1"] {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  table[id='warranty'] {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th[id='warranty']{
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+
+  }
+  td[id='warranty'] {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+    padding-right: 20px;
+  }
+  
+  thead[id='warranty'] {
+    background-color: #f2f2f2;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  ol[id='warranty'] {
+    margin-left: 20px;
+  }
+  
+  li[id='warranty'] {
+    margin-bottom: 10px;
+  }
+  

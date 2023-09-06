@@ -1,0 +1,56 @@
+ .profile-container {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+}
+
+.profile-sidebar {
+  width: 350px;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.profile-image img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.profile-info h2 {
+  margin: 0;
+}
+
+.profile-info p {
+  margin: 5px 0;
+}
+
+.profile-button {
+  display: block;
+  margin-top: 10px;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: #3b3b3b;
+  color: #fff;
+  cursor: pointer;
+}
+
+button[id="profile-button"]:hover {
+  background-color: #f9a826;
+}
+
+.profile-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.profile-section {
+  margin-bottom: 20px;
+}
+
+.profile-section h2 {
+  margin: 0;
+} 
